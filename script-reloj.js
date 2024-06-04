@@ -1,3 +1,4 @@
+console.log("ejecutando");
 document.addEventListener('DOMContentLoaded', () => { 
       //===
       // VARIABLES
